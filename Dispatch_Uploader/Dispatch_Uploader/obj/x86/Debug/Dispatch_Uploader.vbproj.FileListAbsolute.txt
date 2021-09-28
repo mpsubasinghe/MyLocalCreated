@@ -1,0 +1,9 @@
+c:\users\mano\documents\visual studio 2010\Projects\Dispatch_Uploader\Dispatch_Uploader\bin\Debug\Dispatch_Uploader.exe
+c:\users\mano\documents\visual studio 2010\Projects\Dispatch_Uploader\Dispatch_Uploader\bin\Debug\Dispatch_Uploader.pdb
+c:\users\mano\documents\visual studio 2010\Projects\Dispatch_Uploader\Dispatch_Uploader\bin\Debug\Dispatch_Uploader.xml
+c:\users\mano\documents\visual studio 2010\Projects\Dispatch_Uploader\Dispatch_Uploader\obj\x86\Debug\Dispatch_Uploader.Form1.resources
+c:\users\mano\documents\visual studio 2010\Projects\Dispatch_Uploader\Dispatch_Uploader\obj\x86\Debug\Dispatch_Uploader.Resources.resources
+c:\users\mano\documents\visual studio 2010\Projects\Dispatch_Uploader\Dispatch_Uploader\obj\x86\Debug\Dispatch_Uploader.vbproj.GenerateResource.Cache
+c:\users\mano\documents\visual studio 2010\Projects\Dispatch_Uploader\Dispatch_Uploader\obj\x86\Debug\Dispatch_Uploader.exe
+c:\users\mano\documents\visual studio 2010\Projects\Dispatch_Uploader\Dispatch_Uploader\obj\x86\Debug\Dispatch_Uploader.xml
+c:\users\mano\documents\visual studio 2010\Projects\Dispatch_Uploader\Dispatch_Uploader\obj\x86\Debug\Dispatch_Uploader.pdb
